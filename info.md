@@ -1,0 +1,5 @@
+- 👋 "Hi, I’m @Boreasi";
+- 👀 "I'm interested in coding, creating and learning new technologies";
+- 🌱 "I’m currently learning csharp,css,html,php,javascript";
+- 💞️ "I'm using here because of github is best place about coding";
+- 📫 "How to reach me dc = Boreas#3578", "insta = kivanc_cgty";
